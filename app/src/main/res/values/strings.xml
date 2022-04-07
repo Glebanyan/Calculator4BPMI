@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="textView">In most countries, students use calculators for schoolwork. At first, this idea caused some resistance out of fear,
+that basic or elementary arithmetic skills will suffer. There is still disagreement about the importance of the ability to perform calculations in the head:
+some training programs restrict the use of the calculator until a certain level of proficiency is achieved, while others
+they concentrate more on teaching assessment methods and problem solving. Studies show that there is insufficient guidance on the use of computing
+tools can limit students mathematical thinking. Others claim that using a calculator can even
+bring basic math skills to atrophy.</string>
+    <string name="paste">Paste</string>
+    <string name="copy">Copy</string>
+    <string name="simple">Mode</string>
+    <string name="science">Science</string>
+    <string name="menu">Menu</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="child">Child</string>
+    <string name="ru">ru</string>
+    <string name="en">en</string>
+    <string name="author">Kononyuk Vlada
+        Pochinok Igor
+        Shelegov Gleb
+        Students of 4BPMI MASU
+    </string>
+
+</resources>
